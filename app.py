@@ -36,13 +36,6 @@ def predict():
     else:
         valPred = round(prediction[0][0],3) 
         return render_template('result.html',pred=f'Congratulations!!!, You are in a Safe Zone.\n\n Probability of you being a non-diabetic is {valPred*100:.2f}%.\n\n Advice : Exercise Regularly and maintain like this..!') 
-<<<<<<< HEAD
-=======
-
-
-
-
->>>>>>> 066e56577631cb89282d785cdb8648a37658ba75
 
 
     # return render_template('index.html') 

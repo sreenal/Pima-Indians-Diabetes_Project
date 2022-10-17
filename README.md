@@ -36,6 +36,6 @@ Now we create the app.py for hosting our data where we define our flask api meth
 The results are printed on the result page .
 Once these results are sucessful our whole project data are loaded on github and the repository name is directed to heroku app thus we deploy the application
  you can find the application on :
-https://pidiabetes.herokuapp.com/predict
+https://pidib.herokuapp.com/
 
 
